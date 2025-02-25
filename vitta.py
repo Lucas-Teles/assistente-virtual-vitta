@@ -67,19 +67,19 @@ while True:
         "Moderação: Evite excessos e mantenha uma alimentação variada e rica em fibras, frutas e vegetais.",
         "Exercícios: Pratique atividades físicas regularmente, como musculação, corrida ou esportes, para manter a composição corporal saudável.",
         "Sono e bem-estar: Priorize boas noites de sono e controle o estresse para manter o metabolismo equilibrado.",
-        " Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
-        " É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
+        "Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
+        "É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
     ]
 
 elif 25 <= imc < 29.9:
     classificacao = "Sobrepeso"
     dicas = [
-        " Alimentação: Reduza o consumo de açúcares e ultraprocessados. Priorize alimentos naturais e ricos em fibras.",
-        " Planejamento alimentar: Prefira refeições balanceadas e evite pular refeições para manter o metabolismo ativo.",
-        " Exercícios: Comece com caminhadas diárias e exercícios de resistência para ajudar na perda de gordura e ganho de massa magra.",
-        " Estilo de vida: Controle o estresse e pratique técnicas de relaxamento, pois o cortisol alto pode dificultar a perda de peso.",
-        " Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
-        " É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
+        "Alimentação: Reduza o consumo de açúcares e ultraprocessados. Priorize alimentos naturais e ricos em fibras.",
+        "Planejamento alimentar: Prefira refeições balanceadas e evite pular refeições para manter o metabolismo ativo.",
+        "Exercícios: Comece com caminhadas diárias e exercícios de resistência para ajudar na perda de gordura e ganho de massa magra.",
+        "Estilo de vida: Controle o estresse e pratique técnicas de relaxamento, pois o cortisol alto pode dificultar a perda de peso.",
+        "Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
+        "É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
     ]
 
 elif 30 <= imc < 34.9:
@@ -89,8 +89,8 @@ elif 30 <= imc < 34.9:
         "Estratégias alimentares: Experimente técnicas como a reeducação alimentar ou um plano alimentar orientado por um nutricionista.",
         "Exercícios: Pratique atividades de baixo impacto, como natação ou caminhada, para proteger as articulações e melhorar a saúde cardiovascular.",
         "Acompanhamento: Considere buscar orientação médica e nutricional para um plano de emagrecimento saudável e sustentável.",
-        " Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
-        " É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
+        "Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
+        "É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
     ]
 
 elif 35 <= imc < 39.9:
@@ -98,21 +98,21 @@ elif 35 <= imc < 39.9:
     dicas = [
         " Alimentação: Evite frituras e açúcares adicionados. Prefira refeições ricas em fibras, proteínas magras e gorduras saudáveis.",
         "Reeducação alimentar: Um nutricionista pode ajudar a adaptar sua dieta às suas necessidades e objetivos.",
-        " Exercícios: Prefira atividades de baixo impacto (como hidroginástica e pilates) para evitar sobrecarga nas articulações.",
-        " Saúde mental: O suporte psicológico pode ser essencial para mudanças de hábitos e controle da compulsão alimentar."
-        " Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
-        " É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
+        "Exercícios: Prefira atividades de baixo impacto (como hidroginástica e pilates) para evitar sobrecarga nas articulações.",
+        "Saúde mental: O suporte psicológico pode ser essencial para mudanças de hábitos e controle da compulsão alimentar."
+        "Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.",
+        "É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
     ]
 
 else:
     classificacao = "Obesidade Grau 3"
     dicas = [
-        " Alimentação: Evite dietas restritivas sem orientação profissional. Priorize alimentos naturais e balanceados.",
+        "Alimentação: Evite dietas restritivas sem orientação profissional. Priorize alimentos naturais e balanceados.",
         "Monitoramento nutricional: Um plano alimentar específico pode ajudar a alcançar metas realistas e sustentáveis.",
         "Exercícios: Atividades supervisionadas, como musculação adaptada e fisioterapia, podem ajudar na mobilidade e na perda de peso.",
         "Acompanhamento multidisciplinar: O suporte de profissionais da saúde (nutricionista, médico e educador físico) pode ser essencial para o processo de emagrecimento saudável.",
-        " Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.,
-        " É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos.",
+        "Importante: Essas dicas servem para você ter um norte de que ações deve tomar para o cuidado com a sua saúde.,
+        "É indispensával consultar os profissionais de cada área para um acompanhamento como Profissionais de Nutrição, Educação Física, Médicos e Psicólogos."
 
     ]
 
