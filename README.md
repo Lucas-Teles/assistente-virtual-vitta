@@ -43,7 +43,12 @@ Se deseja contribuir para aprimorar o Vitta, fique à vontade para fazer um fork
 ## 🏅 Autores
 
 👨‍💻 Desenvolvido pelos alunos do bootcamp da Avanti 😊💡
-[Lucas Teles](https://github.com/Lucas-Teles)
-[Jefferson Carvalho](https://github.com/jeffsousac)
-[Rômulo Alves](https://github.com/ALVESROMULO)
+- [Lucas Teles](https://github.com/Lucas-Teles)
+- [Jefferson Carvalho](https://github.com/jeffsousac)
+- [Rômulo Alves](https://github.com/ALVESROMULO)
 
+## 🔮 Implementações Futuras
+
+🔹 **Tratamento de Erros**: Implementação de verificações para garantir que o usuário insira valores válidos (ex: impedir entrada de caracteres em campos numéricos).
+
+🔹 **Histórico de Consultas**: Adição de funcionalidade para que o usuário possa visualizar os cálculos anteriores e acompanhar sua evolução ao longo do tempo.
